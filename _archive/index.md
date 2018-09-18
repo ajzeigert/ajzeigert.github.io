@@ -18,7 +18,7 @@
 
 ### Currently:
 
-- **Interaction Designer**
+- **UI/UX designer**
   - [GeoEngineers](http://geoengineers.com/) software engineering team
   - Bend, OR
 
@@ -32,9 +32,14 @@
 
 - **Freelancer**
   - Graphic design
+    - Bulletin examples
   - Illustration
+    - Bulletin examples
   - Web design/development
+    - Birdies Cafe
+	- Spectrum Editing
   - Cartography
+    - USGS modern
 
 ## Contact
 
